@@ -1,0 +1,804 @@
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="1180" style="width:885.0pt;background:#F2F2F2;border-collapse:collapse">
+ <tbody><tr style="height:15.75pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;background:
+  #C5D9F1;padding:0cm 0cm 0cm 0cm;height:15.75pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">.No</span></b></p>
+  </td>
+  <td width="371" style="width:278.0pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#C5D9F1;padding:0cm 0cm 0cm 0cm;height:15.75pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Insurer</span></b></p>
+  </td>
+  <td width="763" style="width:572.0pt;border:solid windowtext 1.0pt;border-left:
+  none;background:#C5D9F1;padding:0cm 0cm 0cm 0cm;height:15.75pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Address ( Link )</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">1</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Acko</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">&nbsp;General Insurance Limited</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.acko.com/public-disclosure/"><span style="font-size:10.0pt;
+  color:windowtext;text-decoration:none">https://www.acko.com/public-disclosure/</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">2</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Aditya Birla Health Insurance Co. Limited</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.adityabirlahealth.com/healthinsurance/#!/downloads"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https//www.adityabirlahealth.com/healthinsurance/#!/downloads</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">3</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">AIC</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.aicofindia.com/AICEng/Pages/Stat_Info_home.aspx" title="blocked::http://www.aicofindia.com/AICEng/Pages/Stat_Info_home.aspx"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.aicofindia.com/AICEng/Pages/Stat_Info_home.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">4</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Apollo Munich</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.apollomunichinsurance.com/financials.aspx"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.apollomunichinsurance.com/financials.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">5</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Bajaj Allianz&nbsp;</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.bajajallianz.com/Corp/aboutus/general-financial-info.jsp"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https://www.bajajallianz.com/Corp/aboutus/general-financial-info.jsp</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">6</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Bharti&nbsp;</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Axa</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.bharti-axagi.co.in/public-disclosure"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.bharti-axagi.co.in/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">7</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Cholamandalam</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.cholainsurance.com/about-us/financials.aspx" target="_blank"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.cholainsurance.com/about-us/financials.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">8</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Cigna TTK</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.cignattkinsurance.in/disclosures"><span style="font-size:
+  10.0pt;color:windowtext;text-decoration:none">https://www.cignattkinsurance.in/disclosures</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">9</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">DHFL General Insurance Limited</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.dhflinsurance.com/disclosures/"><span style="font-size:
+  10.0pt;color:windowtext;text-decoration:none">https://www.dhflinsurance.com/disclosures/</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">10</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">ECGC Ltd.</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.ecgc.in/public-disclosures/" target="_blank"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https://www.ecgc.in/public-disclosures/</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">11</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Edelweiss General Insurance Company Limited</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.edelweissinsurance.com/web/motor/public-disclosure"><span style="font-size:10.0pt;color:#954F72">https://www.edelweissinsurance.com/web/motor/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">12</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Future&nbsp;</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Generali</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://general.futuregenerali.in/general-insurance/investorinformation/publicdisclosure"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https://general.futuregenerali.in/general-insurance/investorinformation/publicdisclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">13</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">GIC of India</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.gicofindia.com/index.php?option=com_content&amp;view=article&amp;id=183&amp;Itemid=641&amp;lang=en"><span style="font-size:10.0pt;color:#954F72">https://www.gicofindia.com/index.php?option=com_content&amp;view=article&amp;id=183&amp;Itemid=641&amp;lang=en</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">14</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Go Digit General Insurance Limited</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.godigit.com/financials"><span style="font-size:10.0pt;
+  color:windowtext;text-decoration:none">https://www.godigit.com/financials</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">15</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">HDFC ERGO</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">HDFC General Insurance Company Limited (L &amp; T)</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="line-height:normal"><span style="font-size:7.5pt;
+  font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.hdfcergo.com/about-us/financial-disclosures.html"><span style="font-size:10.0pt;color:#954F72">https://www.hdfcergo.com/about-us/financial-disclosures.html</span></a></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.ltinsurance.com/financial_disclosures.htm?page=about"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.ltinsurance.com/financial_disclosures.htm?page=about</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">16</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">ICICI Lombard</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.icicilombard.com/about-us/public-disclosures.html"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https://www.icicilombard.com/about-us/public-disclosures.html</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">17</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">IFFCO&nbsp;</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Tokio</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.iffcotokio.co.in/public-disclosure"><span style="font-size:
+  10.0pt;color:windowtext;text-decoration:none">http://www.iffcotokio.co.in/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">18</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">ITI Reinsurance Ltd</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.itireinsurance.com/PublicDisclosure.aspx"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.itireinsurance.com/PublicDisclosure.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">19</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Kotak Mahindra General Insurance Company Ltd.</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black"><a href="https://www.kotakgeneralinsurance.com/public-disclosure"><span style="font-size:10.0pt;color:#954F72">https://www.kotakgeneralinsurance.com/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">20</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Liberty</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.libertyinsurance.in/products/irdai/irdaiindex"><span style="font-size:10.0pt;color:#954F72">https://www.libertyinsurance.in/products/irdai/irdaiindex</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">21</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Magma HDI</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://magma-hdi.co.in/public-disclosures.aspx"><span style="font-size:
+  10.0pt;color:windowtext;text-decoration:none">http://magma-hdi.co.in/public-disclosures.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">22</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Max&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Bupa</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.maxbupa.com/about-us/maxbupa/financialreports.aspx"><span style="font-size:10.0pt;color:#954F72">https://www.maxbupa.com/about-us/maxbupa/financialreports.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  12.0pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">23</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  12.0pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">National Insurance</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  12.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://nationalinsuranceindia.nic.co.in/portal/page/portal/Corporate/Home/AboutUs/BusinessPerformance"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">https://nationalinsuranceindia.nic.co.in/portal/page/portal/Corporate/Home/AboutUs/BusinessPerformance</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">24</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">New India</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.newindia.co.in/portal/readMore/PublicDisclosure"><span style="font-size:10.0pt;color:#954F72">https://www.newindia.co.in/portal/readMore/PublicDisclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">25</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Raheja</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">&nbsp;QBE</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.rahejaqbe.com/Home/PublicDisclosures/Insurance.html"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.rahejaqbe.com/Home/PublicDisclosures/Insurance.html&nbsp;&nbsp;&nbsp;&nbsp;</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">26</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Reliance General</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.reliancegeneral.co.in/Insurance/about-us/Public-Disclosure.aspx"><span style="font-size:10.0pt;color:#954F72">https://www.reliancegeneral.co.in/Insurance/about-us/Public-Disclosure.aspx</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:12.0pt">
+  <td width="47" valign="top" style="width:35.0pt;border:solid windowtext 1.0pt;
+  border-top:none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:12.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">27</span></p>
+  </td>
+  <td width="371" valign="top" style="width:278.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:12.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Reliance Health Insurance Limited</span></p>
+  </td>
+  <td width="763" valign="top" style="width:572.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:12.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><a href="https://www.reliancehealthinsurance.com/public-disclosure.html">https://www.reliancehealthinsurance.com/public-disclosure.html</a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">28</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Religare</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">&nbsp;Health Insurance Company Ltd.&nbsp;</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.religarehealthinsurance.com/public-disclosures.html" target="_blank"><span style="font-size:10.0pt;color:windowtext;text-decoration:
+  none">http://www.religarehealthinsurance.com/public-disclosures.html</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">29</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Royal&nbsp;</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Sundaram</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://www.royalsundaram.in/about-us/public-disclosures"><span style="font-size:10.0pt;color:#954F72">https://www.royalsundaram.in/about-us/public-disclosures</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">30</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">SBI General</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.sbigeneral.in/SBIG/public-disclosure"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.sbigeneral.in/SBIG/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">31</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Shriram</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">&nbsp;General</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.shriramgi.com/Disclosure.html"><span style="font-size:10.0pt;
+  color:windowtext;text-decoration:none">http://www.shriramgi.com/Disclosure.html</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">32</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Star Health</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.starhealth.in/public-disclosure"><span style="font-size:
+  10.0pt;color:windowtext;text-decoration:none">http://www.starhealth.in/public-disclosure</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">33</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Tata AIG</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.tataaiginsurance.in/taig/taig/tata_aig/about_us/about_tata_aig/financials.html"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.tataaiginsurance.in/taig/taig/tata_aig/about_us/about_tata_aig/financials.html&nbsp;</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">34</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">The Oriental Insurance</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="http://www.orientalinsurance.org.in/web/guest/public-disclosures"><span style="font-size:10.0pt;color:windowtext;text-decoration:none">http://www.orientalinsurance.org.in/web/guest/public-disclosures</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">35</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">United India</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><a href="https://uiic.co.in/public-disclosures"><span style="font-size:10.0pt;
+  color:windowtext;text-decoration:none">https://uiic.co.in/public-disclosures</span></a></span></p>
+  </td>
+ </tr>
+ <tr style="height:15.0pt">
+  <td width="47" style="width:35.0pt;border:solid windowtext 1.0pt;border-top:
+  none;background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="color:black">36</span></p>
+  </td>
+  <td width="371" style="width:278.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black">Universal&nbsp;</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Sompo</span></p>
+  </td>
+  <td width="763" style="width:572.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:#DCE6F1;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  15.25pt"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+  color:black"><a href="https://www.universalsompo.com/Footer/PublicDisclosure"><span style="font-size:7.5pt;color:#954F72">https://www.universalsompo.com/Footer/PublicDisclosure</span></a></span></u></p>
+  </td>
+ </tr>
+</tbody></table>
